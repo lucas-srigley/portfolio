@@ -46,9 +46,6 @@ const Extracurricular = () => {
       <div className="container-max">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Beyond Code</h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Applying technical skills to real-world engineering challenges and team leadership.
-          </p>
         </div>
 
         <div className="max-w-4xl mx-auto space-y-8">

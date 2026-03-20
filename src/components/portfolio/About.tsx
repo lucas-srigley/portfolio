@@ -18,9 +18,6 @@ const About = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">About Me</h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Driven by curiosity and passion for technology, I'm constantly learning and building solutions that make a difference.
-          </p>
         </motion.div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-start">

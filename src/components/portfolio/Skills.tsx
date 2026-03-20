@@ -44,9 +44,6 @@ const Skills = () => {
       <div className="container-max">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Technical Skills</h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            A comprehensive toolkit built through academic learning, professional experience, and personal projects.
-          </p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

@@ -51,9 +51,6 @@ const Projects = () => {
       <div className="container-max">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Projects</h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            A showcase of my technical skills through full-stack applications, mobile apps, and innovative solutions.
-          </p>
         </div>
 
         <div className="grid lg:grid-cols-2 xl:grid-cols-3 gap-8">

@@ -53,9 +53,6 @@ const Experience = () => {
       <div className="container-max">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Experience</h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Building real-world solutions and helping others learn through hands-on development and teaching.
-          </p>
         </div>
 
         <div className="space-y-8">

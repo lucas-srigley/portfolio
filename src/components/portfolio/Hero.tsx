@@ -31,7 +31,7 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Column - Text Content */}
           <motion.div
-            className="space-y-8 text-center lg:text-left flex flex-col items-center lg:items-start"
+            className="space-y-2 text-center lg:text-left flex flex-col items-center lg:items-start"
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
@@ -81,7 +81,6 @@ const Hero = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.5, duration: 0.8 }}
               >
-                I’m passionate about building scalable, user-focused software.
               </motion.p>
             </div>
 
