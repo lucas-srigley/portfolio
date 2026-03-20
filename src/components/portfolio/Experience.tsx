@@ -1,9 +1,21 @@
+import TensoAI from "../../assets/TensoAI.png";
 import CelesticaLogo from "../../assets/celestica.png";
 import SmithLogo from "../../assets/smith_eng.jpg";
 import { Calendar, MapPin } from "lucide-react";
 
 const Experience = () => {
   const experiences = [
+    {
+      title: "Software Engineer",
+      company: "TensoAI",
+      logo: TensoAI,
+      location: "Remote",
+      period: <p>October 2025 - Present (On-Call)</p>,
+      description: [
+        "Quickly implemented and shipped an MVP within 4 weeks, delivering scalable end-to-end features for client Asahi",
+        "Built production monitoring dashboard for Azure ML and migrated services to Managed Identity and Key Vault",
+      ]      
+    },
     {
       title: "Full-Stack Cloud Developer Intern",
       company: "Celestica",
