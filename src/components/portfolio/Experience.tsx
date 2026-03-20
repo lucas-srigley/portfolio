@@ -10,7 +10,7 @@ const Experience = () => {
       company: "TensoAI",
       logo: TensoAI,
       location: "Remote",
-      period: <p>October 2025 - Present (On-Call)</p>,
+      period: <p>October 2025 - Present</p>,
       description: [
         "Quickly implemented and shipped an MVP within 4 weeks, delivering scalable end-to-end features for client Asahi",
         "Built production monitoring dashboard for Azure ML and migrated services to Managed Identity and Key Vault",
